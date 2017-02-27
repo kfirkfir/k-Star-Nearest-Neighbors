@@ -1,4 +1,4 @@
-# k--Nearest-Neighbors
+# k-Star-Nearest-Neighbors
 Code for k*-Nearest Neighbours Algorithm which appears in:
 
 k*-Nearest Neighbors: From Global to Local, by Oren Anava and Kfir Yehuda Levy, NIPS 2016
